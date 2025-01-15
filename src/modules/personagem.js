@@ -6,12 +6,9 @@ export class Personagem {
   tipo;
   descricao;
 
-  constructor(nome, level, tipo) {
+  constructor(nome, level) {
     this.nome = nome;
     this.level = level;
-    this.tipo = tipo;
-    //this.vida = 100;
-    //this.mana = 100;
   }
 
   obterInsignia() {
@@ -19,17 +16,5 @@ export class Personagem {
       return `Implacavel ${this.tipo}`;
     }
     return `${this.tipo} iniciante`;
-  }
-}
-
-export class Mago {
-  elementoMagico;
-  levelMagico;
-  inteligencia;
-
-  constructor(elementoMagico, levelMagico, inteligencia) {
-    this.elementoMagico = elementoMagico;
-    this.levelMagico = levelMagico;
-    this.inteligencia = inteligencia;
   }
 }
