@@ -6,7 +6,7 @@ Projeto de simulação de um jogo de duelo de cartas utilizando JavaScript Orien
 | -------------  | --- |
 | :sparkles: Nome        | **Devs & Dragons**
 | :label: Tecnologias | JavaScript, POO.
-| :rocket: URL         | ttps://andreduarte99.github.io/curso-js-poo/
+| :rocket: URL         | https://andreduarte99.github.io/curso-js-poo/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-orientacao-a-objetos
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
